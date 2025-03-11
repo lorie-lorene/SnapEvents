@@ -1,7 +1,7 @@
 # SnapEvents
 
 ---
-# **A- Definition des Modules
+# A- Definition des Modules
 
 ## **1. Module Utilisateur**
 ### **Fonctionnalités :**
@@ -105,7 +105,7 @@
 
 ---
 
-# **B- Description formelles  des Modules
+# B- Description formelles  des Modules
 
 ## **Document de Conception : Module Utilisateur**
 
